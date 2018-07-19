@@ -1,0 +1,6 @@
+improt socket
+
+def find_service_name():
+  protocplname = ' tcp '
+  for prot in [ 80 , 25 ]
+  
